@@ -18,7 +18,9 @@ Each object type has a json schema used to generate the manifest json and data j
 #### Chemistry mol file
 
 The *mol* files may include one or more structures.
-Each structure may be a 2D "flat" of 3D structure. (may be mol 2000, mol 3000 ?)
+Each structure may be a 2D "flat" or 3D structure. (may be mol 2000, mol 3000 ?)
+
+**IMPORTANT HERE**: There is no  1 file / 1 Object relation. On file may have multiplet object of different types....
 
 #### Bruker NMR 1r file
 
